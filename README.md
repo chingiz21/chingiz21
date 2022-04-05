@@ -4,24 +4,24 @@
 
 <br />
 
-**Мои основные навыки:**
-<div>
+**Основные технологии, которые я использую:**
+<div align='center'>
     <img src='icons/Javascript.svg' title='JavaScript' alt='JavaScript' width='40'>&nbsp;&nbsp;
     <img src='icons/React.svg' title='React' alt='React' width='40'>&nbsp;&nbsp;
     <img src='icons/Redux.svg' title='Redux' alt='Redux' width='40'>&nbsp;&nbsp;
+    <img src='icons/HTML.svg' title='HTML' alt='HTML' width='40'>&nbsp;&nbsp;
+    <img src='icons/CSS.svg' title='CSS' alt='CSS' width='40'>&nbsp;&nbsp;
+    <img src='icons/Git.svg' title='Git' alt='Git' width='40'>&nbsp;&nbsp;
+    <img src='icons/Postman.svg' title='Postman' alt='Postman' width='40'>&nbsp;&nbsp;
 </div>
 <br />
 
-**и навыки поменьше:**
+**и чуть реже:**
 <div align='center'>
     <img src='icons/React Router.svg' title='React Router' alt='React Router' width='40'>&nbsp;&nbsp;
-    <img src='icons/Git.svg' title='Git' alt='Git' width='40'>&nbsp;&nbsp;
     <img src='icons/SQL.svg' title='SQL' alt='SQL' width='40'>&nbsp;&nbsp;
-    <img src='icons/HTML.svg' title='HTML' alt='HTML' width='40'>&nbsp;&nbsp;
-    <img src='icons/CSS.svg' title='CSS' alt='CSS' width='40'>&nbsp;&nbsp;
     <img src='icons/SASS.svg' title='SASS' alt='SASS' width='40'>&nbsp;&nbsp;
     <img src='icons/Figma.svg' title='Figma' alt='Figma' width='40'>&nbsp;&nbsp;
-    <img src='icons/Postman.svg' title='Postman' alt='Postman' width='40'>&nbsp;&nbsp;
     <img src='icons/Babel.svg' title='Babel' alt='Babel' width='40'>&nbsp;&nbsp;
 </div>
 <br />
