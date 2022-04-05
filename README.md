@@ -31,7 +31,7 @@
 ## 🎯 Выполненные пет-проекты:
 <br />
 
-| Title        | Type        | Description          | Technologies  |
+| Название      | Тип         | Описание          | Технологии  |
 | ------------- | ------------- | ------------- | ----- |
 | [maki](https://github.com/chingiz21/maki) | <div align='center' title='pet-project'>🎓</div> | Интернет магазин одежды с авторизацией и регистрацией | JavaScript, React, Redux, Styled-Components, NodeJS, MongoDB, ExpressJS|
 | [book-searcher](https://github.com/chingiz21/bookSearcher) | <div align='center' title='pet-project' >🎓</div> | Веб-приложение для поиска книг с использованием Google API | JavaScript, React, Redux, Google API, NodeJS, ExpressJS |
