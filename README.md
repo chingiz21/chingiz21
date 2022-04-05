@@ -45,7 +45,7 @@
 <br />
 
 <div align='center'>
-    <img src="https://wakatime.com/share/@chinzano/3e519f9b-db8f-41c8-b8a6-87c7cd6e07cb.svg" width='400' alt='Languages over last 7 days' align='center' />
+    <img src="https://wakatime.com/share/@chinzano/3e519f9b-db8f-41c8-b8a6-87c7cd6e07cb.svg" width='600' alt='Languages over last 7 days' align='center' />
 </div>
 <br />
 
