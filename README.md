@@ -6,7 +6,7 @@
 
 **Мои основные навыки:**
 <div>
-    <img src='icons/JavaScript.svg' title='JavaScript' alt='JavaScript' width='40'>&nbsp;&nbsp;
+    <img src='icons/Javascript.svg' title='JavaScript' alt='JavaScript' width='40'>&nbsp;&nbsp;
     <img src='icons/React.svg' title='React' alt='React' width='40'>&nbsp;&nbsp;
     <img src='icons/Redux.svg' title='Redux' alt='Redux' width='40'>&nbsp;&nbsp;
 </div>
@@ -45,9 +45,9 @@
 <br />
 
 <div align='center'>
-    <img src='src="https://wakatime.com/share/@chinzano/3e519f9b-db8f-41c8-b8a6-87c7cd6e07cb.svg">' alt='Languages over last 7 days ' align='center' />
+    <img src="https://wakatime.com/share/@chinzano/3e519f9b-db8f-41c8-b8a6-87c7cd6e07cb.svg"> alt='Languages over last 7 days ' align='center' />
 </div>
 <br />
 
 ## 🔎 Как со мной связаться:
-<p>Почта: <a href='mailto:chingiz.zaripov2000@gmail.com'>chingiz.zaripov2000@gmail.com</a> или телеграм: <a href='https://t.me/chizarino_bb' alt='https://t.me/chizarino_bb' target='_blank'>@chizarino_bb</a>!</p>
+<p>Почта: <a href='mailto:chingiz.zaripov2000@gmail.com'>chingiz.zaripov2000@gmail.com</a> или телеграм: <a href='https://t.me/chizarino_bb' alt='https://t.me/chizarino_bb' target='_blank'>@chizarino_bb</a></p>
