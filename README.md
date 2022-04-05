@@ -23,6 +23,7 @@
     <img src='icons/SASS.svg' title='SASS' alt='SASS' width='40'>&nbsp;&nbsp;
     <img src='icons/Figma.svg' title='Figma' alt='Figma' width='40'>&nbsp;&nbsp;
     <img src='icons/Babel.svg' title='Babel' alt='Babel' width='40'>&nbsp;&nbsp;
+    <img src='icons/Php.svg' title='php' alt='Php' width='40'>&nbsp;&nbsp;
 </div>
 <br />
 
