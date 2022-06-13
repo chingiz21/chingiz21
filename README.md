@@ -37,6 +37,7 @@
 | [maki](https://github.com/chingiz21/maki) | <div align='center' title='pet-project'>🎓</div> | Интернет магазин одежды с авторизацией и регистрацией | JavaScript, React, Redux, Styled-Components, NodeJS, MongoDB, ExpressJS|
 | [book-searcher](https://github.com/chingiz21/bookSearcher) | <div align='center' title='pet-project' >🎓</div> | Веб-приложение для поиска книг с использованием Google API | JavaScript, React, Redux, Google API, NodeJS, ExpressJS |
 | [impoMus](https://github.com/chingiz21/impomus) | <div align='center' title='pet-project' >🎓</div> | Веб-приложение для импорта музыки из Spotify в Youtube | JavaScript, React, Redux, NodeJS, ExpressJS, Spotify&Google API |
+| [art-map](https://github.com/chingiz21/art-map) | <div align='center' title='pet-project' >🎓</div> | Веб-приложение для исследования достопримечательностей | TypeScript, React, MobX, NodeJS, ExpressJS, PostgreSQL, Sequelize |
 <br />
 
 ## 📈 Статистика:
