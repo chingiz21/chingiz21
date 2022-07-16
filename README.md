@@ -38,6 +38,7 @@
 | [book-searcher](https://github.com/chingiz21/bookSearcher) | <div align='center' title='pet-project' >🎓</div> | Веб-приложение для поиска книг с использованием Google API | JavaScript, React, Redux, Google API, NodeJS, ExpressJS |
 | [impoMus](https://github.com/chingiz21/impomus) | <div align='center' title='pet-project' >🎓</div> | Веб-приложение для импорта музыки из Spotify в Youtube | JavaScript, React, Redux, NodeJS, ExpressJS, Spotify&Google API |
 | [art-map](https://github.com/chingiz21/art-map) | <div align='center' title='pet-project' >🎓</div> | Веб-приложение для исследования достопримечательностей | TypeScript, React, MobX, NodeJS, ExpressJS, PostgreSQL, Sequelize |
+| [AlexTcoi](http://alextsoi.ru/) | <div align='center' title='web project' >🖥</div> | Веб-сайт дизайнера интерьеров | JavaScript, Handlebars, SCSS, PHP |
 <br />
 
 ## 📈 Статистика:
